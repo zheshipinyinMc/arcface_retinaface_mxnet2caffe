@@ -1,5 +1,5 @@
 # arcface_retinaface_mxnet2caffe
-arcface and retinaface model convert mxnet to caffe.
+arcface and retinaface model convert mxnet to caffe.  
 Merge BN and Scale into Conv/FC.
 
 # Operator Support Lists
