@@ -31,5 +31,8 @@ softmax
 [retinaface/mnet.25](https://github.com/deepinsight/insightface/issues/669)  
 [retinaface/R50](https://pan.baidu.com/s/1C6nKq122gJxRhb37vK0_LQ)  
 
-# reference
+# Bugs
+R50 Maxpool, caffe use ceil to compute the output shape. Mxnet can use ceil and floor.  
+
+# Reference
 [advanced-mxnet2caffe](https://github.com/szad670401/advanced-mxnet2caffe)  
